@@ -1,0 +1,28 @@
+.corfundo1 {
+    background-color: black;
+}
+
+.fonte {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.corfundo2 {
+    background-color: aquamarine;
+}
+
+.largura {
+    width: 40%;
+}
+
+.altura {
+    height: 70vw;
+}
+
+.largurapx {
+    width: 600px;
+}
+
+.alturapx {
+    height: 190px;
+}
